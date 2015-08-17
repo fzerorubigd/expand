@@ -13,6 +13,8 @@ its base on https://github.com/mitchellh/go-homedir , with some more functionali
 also there is a compiler build tag for getting home dir, not checking the
 GOOS variable.
 
+*WARNING* : I TEST IT ONLY ON Linux!
+
 ## Usage
 
 #### func  HomeDir
